@@ -31,19 +31,7 @@ function sayHiToGrandma(string) {
 }
 
 
-var upperCase = 'HELLO!'
-function sayHiToGrandma(string) {
-  if (string.toUpperCase() === upperCase) {
-    return "YES INDEED!"
-  } 
-}
 
-var mixedCase = 'Hi there!'
-function sayHiToGrandma(string) {
-  if (string.toLowerCase() === mixedCase || string.toUpperCase() === mixedCase){
-    return "I love you, too."
-  }
-}
 
 
 
