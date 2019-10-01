@@ -24,7 +24,7 @@ function sayHiToGrandma(string) {
 }
 
 var lowerCase = 'hello!'
-var upperCase = 'HELLO!'
+
 
 
 function sayHiToGrandma(string) {
