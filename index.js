@@ -30,12 +30,7 @@ function sayHiToGrandma(string) {
   } 
 }
 
-var upperCase = 'HELLO!'
-function sayHiToGrandma(string) {
-  if (string.toUpperCase === upperCase){
-    return "YES INDEED!"
-  }
-}
+
 
 
 
