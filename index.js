@@ -30,9 +30,9 @@ function sayHiToGrandma(string) {
   } 
 }
 
-var string = "HELLO!"
+var upperCase = 'HELLO!'
 function sayHiToGrandma(string) {
-  if (string.toUpperCase === string){
+  if (string.toUpperCase === upperCase){
     return "YES INDEED!"
   }
 }
